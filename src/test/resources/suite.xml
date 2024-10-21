@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name= "Login with year Sport Brand CardNo ">
+    <test name =" admin login">
+        <classes>
+            <class name="testrunner.LoginTestRunner">
+
+            </class>
+        </classes>
+
+
+    </test>
+    <test name ="Create Card">
+        <classes>
+            <class name="testrunner.MenuPageRunner">
+
+            </class>
+        </classes>
+
+    </test>
+
+    <test name ="Generate CSV">
+        <classes>
+            <class name="testrunner.CSVTestRunner">
+
+            </class>
+        </classes>
+    </test>
+
+    <test name ="Trash Cards">
+        <classes>
+            <class name="testrunner.TrashTestRunner">
+
+            </class>
+        </classes>
+    </test>
+
+
+
+</suite>
